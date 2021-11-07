@@ -1,0 +1,1 @@
+/Users/aakashmallik/Projects/sandbox/rust-book-code/minigrep/target/debug/minigrep: /Users/aakashmallik/Projects/sandbox/rust-book-code/minigrep/src/lib.rs /Users/aakashmallik/Projects/sandbox/rust-book-code/minigrep/src/main.rs
